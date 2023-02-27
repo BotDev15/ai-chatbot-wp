@@ -17,6 +17,7 @@
     "express": "^4.18.2",
     "node-fetch": "^3.2.6",
     "request": "^2.88.2",
-    "twilio": "^4.7.2"
+    "twilio": "^4.7.2",
+    "dotenv": "^10.0.0"
   }
 }
